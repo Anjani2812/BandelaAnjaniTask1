@@ -1,0 +1,3 @@
+git config --globe user.name "name"
+git config --globe user.email mail@gmail.com
+git clone url
